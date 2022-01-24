@@ -1,0 +1,26 @@
+{
+  "name": "rio_san/test-1",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Rio23",
+      "email": "sergey.popenko.1999@gmail.com",
+      "role": "MainShyavDev"
+    },
+    {
+      "name": "KoValevE.A.",
+      "email": "mister.krutoi.1999@gmail.com",
+      "role": "MainDev"
+    },
+    {
+      "name": "ZelenchovE.A.",
+      "email": "missis.krutaya.1999@gmail.com",
+      "role": "DevDev"
+    }
+  ],
+  "require": {
+
+  }
+}
